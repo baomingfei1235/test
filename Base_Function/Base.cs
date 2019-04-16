@@ -26,7 +26,7 @@ using Senyint.QualityControlSeting.UserControls;
 namespace Base_Function
 {
     /// <summary>
-    /// 基础数据维护的功能
+    /// 基础数据维护的功能123123123123
     /// </summary>
     public class Base
     {
